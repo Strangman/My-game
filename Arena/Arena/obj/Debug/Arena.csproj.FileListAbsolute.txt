@@ -1,0 +1,7 @@
+C:\Games\Programming\Bush\Games\Arena\Arena\bin\Debug\Arena.exe.config
+C:\Games\Programming\Bush\Games\Arena\Arena\bin\Debug\Arena.exe
+C:\Games\Programming\Bush\Games\Arena\Arena\bin\Debug\Arena.pdb
+C:\Games\Programming\Bush\Games\Arena\Arena\obj\Debug\Arena.csprojAssemblyReference.cache
+C:\Games\Programming\Bush\Games\Arena\Arena\obj\Debug\Arena.csproj.CoreCompileInputs.cache
+C:\Games\Programming\Bush\Games\Arena\Arena\obj\Debug\Arena.exe
+C:\Games\Programming\Bush\Games\Arena\Arena\obj\Debug\Arena.pdb
