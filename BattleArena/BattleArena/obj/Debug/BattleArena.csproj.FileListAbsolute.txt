@@ -1,0 +1,7 @@
+C:\Games\Programming\Bush\Games\BattleArena\BattleArena\bin\Debug\BattleArena.exe.config
+C:\Games\Programming\Bush\Games\BattleArena\BattleArena\bin\Debug\BattleArena.exe
+C:\Games\Programming\Bush\Games\BattleArena\BattleArena\bin\Debug\BattleArena.pdb
+C:\Games\Programming\Bush\Games\BattleArena\BattleArena\obj\Debug\BattleArena.csprojAssemblyReference.cache
+C:\Games\Programming\Bush\Games\BattleArena\BattleArena\obj\Debug\BattleArena.csproj.CoreCompileInputs.cache
+C:\Games\Programming\Bush\Games\BattleArena\BattleArena\obj\Debug\BattleArena.exe
+C:\Games\Programming\Bush\Games\BattleArena\BattleArena\obj\Debug\BattleArena.pdb
