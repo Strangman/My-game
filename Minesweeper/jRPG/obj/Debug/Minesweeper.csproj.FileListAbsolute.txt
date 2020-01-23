@@ -1,0 +1,7 @@
+C:\Games\Programming\Home\jRPG\jRPG\jRPG\obj\Debug\Minesweeper.csprojAssemblyReference.cache
+C:\Games\Programming\Home\jRPG\jRPG\jRPG\obj\Debug\MainWindow.g.cs
+C:\Games\Programming\Home\jRPG\jRPG\jRPG\obj\Debug\App.g.cs
+C:\Games\Programming\Home\jRPG\jRPG\jRPG\obj\Debug\jRPG_MarkupCompile.cache
+C:\Games\Programming\Home\jRPG\jRPG\jRPG\obj\Debug\jRPG_MarkupCompile.lref
+C:\Games\Programming\Home\jRPG\jRPG\jRPG\obj\Debug\jRPG.exe
+C:\Games\Programming\Home\jRPG\jRPG\jRPG\obj\Debug\jRPG.pdb

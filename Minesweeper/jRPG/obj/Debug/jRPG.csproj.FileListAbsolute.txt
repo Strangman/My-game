@@ -1,0 +1,14 @@
+C:\Games\Programming\Home\jRPG\jRPG\jRPG\bin\Debug\jRPG.exe.config
+C:\Games\Programming\Home\jRPG\jRPG\jRPG\bin\Debug\jRPG.exe
+C:\Games\Programming\Home\jRPG\jRPG\jRPG\bin\Debug\jRPG.pdb
+C:\Games\Programming\Home\jRPG\jRPG\jRPG\obj\Debug\jRPG.csprojAssemblyReference.cache
+C:\Games\Programming\Home\jRPG\jRPG\jRPG\obj\Debug\MainWindow.g.cs
+C:\Games\Programming\Home\jRPG\jRPG\jRPG\obj\Debug\App.g.cs
+C:\Games\Programming\Home\jRPG\jRPG\jRPG\obj\Debug\jRPG_MarkupCompile.cache
+C:\Games\Programming\Home\jRPG\jRPG\jRPG\obj\Debug\jRPG_MarkupCompile.lref
+C:\Games\Programming\Home\jRPG\jRPG\jRPG\obj\Debug\MainWindow.baml
+C:\Games\Programming\Home\jRPG\jRPG\jRPG\obj\Debug\jRPG.g.resources
+C:\Games\Programming\Home\jRPG\jRPG\jRPG\obj\Debug\jRPG.Properties.Resources.resources
+C:\Games\Programming\Home\jRPG\jRPG\jRPG\obj\Debug\jRPG.csproj.GenerateResource.cache
+C:\Games\Programming\Home\jRPG\jRPG\jRPG\obj\Debug\jRPG.exe
+C:\Games\Programming\Home\jRPG\jRPG\jRPG\obj\Debug\jRPG.pdb
